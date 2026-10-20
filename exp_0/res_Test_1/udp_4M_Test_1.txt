@@ -1,0 +1,19 @@
+Connecting to host 192.168.0.43, port 5201
+[  5] local 10.0.0.1 port 53571 connected to 192.168.0.43 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec   489 KBytes  4.00 Mbits/sec  366  
+[  5]   1.00-2.00   sec   489 KBytes  4.01 Mbits/sec  366  
+[  5]   2.00-3.00   sec   488 KBytes  3.99 Mbits/sec  365  
+[  5]   3.00-4.00   sec   489 KBytes  4.01 Mbits/sec  366  
+[  5]   4.00-5.00   sec   488 KBytes  3.99 Mbits/sec  365  
+[  5]   5.00-6.00   sec   489 KBytes  4.01 Mbits/sec  366  
+[  5]   6.00-7.00   sec   488 KBytes  3.99 Mbits/sec  365  
+[  5]   7.00-8.00   sec   489 KBytes  4.01 Mbits/sec  366  
+[  5]   8.00-9.00   sec   488 KBytes  3.99 Mbits/sec  365  
+[  5]   9.00-10.00  sec   489 KBytes  4.00 Mbits/sec  366  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  4.77 MBytes  4.00 Mbits/sec  0.000 ms  0/3656 (0%)  sender
+[  5]   0.00-12.40  sec  1.21 MBytes  0.82 Mbits/sec  10.724 ms  2729/3656 (75%)  receiver
+
+iperf Done.

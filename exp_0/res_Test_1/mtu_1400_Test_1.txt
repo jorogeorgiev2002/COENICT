@@ -1,0 +1,5 @@
+PING 192.168.0.43 (192.168.0.43) 1400(1428) bytes of data.
+
+--- 192.168.0.43 ping statistics ---
+10 packets transmitted, 0 received, +10 errors, 100% packet loss, time 9223ms
+

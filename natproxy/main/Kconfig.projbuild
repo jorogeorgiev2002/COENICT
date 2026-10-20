@@ -1,0 +1,88 @@
+menu "Custom config"
+	config WIFI_SSID
+        string "WiFi SSID"
+        default ""
+        help
+            Set the WIFI SSID
+
+	config WIFI_PASS
+		string "WiFi password"
+		default ""
+		help
+			Set the WIFI pass
+
+	config BOT_TOKEN
+		string "Telegram bot token"
+		default ""
+		help
+			Enter Telegram bot token
+
+	config CHAT_ID
+		string "Telegram chat ID"
+		default ""
+		help
+			Enter Telegram chat ID
+
+	config WG_PRIVATE_KEY
+        string "Wireguard Private Key"
+        default ""
+        help
+            Private key of the WireGuard device.
+
+    config WG_LOCAL_IP_ADDRESS
+        string "Wireguard local IP address"
+        default ""
+        help
+            Local IP address of the WireGuard device.
+
+    config WG_LOCAL_IP_NETMASK
+        string "Wireguard local netmask"
+        default ""
+        help
+            Netmask of the local network the WireGuard device belongs to.
+
+    config WG_LOCAL_PORT
+        int "Wireguard local port"
+        default 12344
+        help
+            Local port to listen.
+
+    config WG_PEER_PUBLIC_KEY
+        string "Wireguard remote peer public key"
+        default ""
+        help
+            Public key of the remote peer.
+
+    config WG_PRESHARED_KEY
+        string "Wireguard pre-shared symmetric key"
+        default ""
+        help
+            Public key of the remote peer.
+
+    config WG_PEER_ADDRESS
+        string "Wireguard remote peer address"
+        default ""
+        help
+            Address of the remote peer.
+
+    config WG_PEER_PORT
+        int ""
+        default 12345
+        help
+            Port number of the remote peer.
+
+    config WG_PERSISTENT_KEEP_ALIVE
+        int "Interval to send an authenticated empty packet"
+        default 1500
+        help
+            A seconds interval, between 1 and 65535 inclusive, of how often to
+            send an authenticated empty packet to the peer for the purpose of
+            keeping a stateful firewall or NAT mapping valid persistently
+
+    config EXAMPLE_PING_ADDRESS
+        string "Target IP address or name"
+        default ""
+        help
+            Target IP address to send ICMP echo requests.
+
+endmenu

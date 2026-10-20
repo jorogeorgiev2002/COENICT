@@ -1,0 +1,173 @@
+[Connecting] connecting to 192.168.0.43
+[192.168.0.43:2112] [Connected] connection established
+seq=0 rtt=16.9ms rd=4.6ms sd=12.3ms ipdv=n/a
+seq=1 rtt=87.15ms rd=6.42ms sd=80.73ms ipdv=70.25ms
+seq=2 rtt=20.54ms rd=5.37ms sd=15.17ms ipdv=66.61ms
+seq=3 rtt=51.4ms rd=-576µs sd=51.97ms ipdv=30.86ms
+seq=4 rtt=70.53ms rd=190µs sd=70.34ms ipdv=19.13ms
+seq=5 rtt=21.62ms rd=791µs sd=20.83ms ipdv=48.91ms
+seq=6 rtt=98.14ms rd=-483µs sd=98.63ms ipdv=76.52ms
+seq=7 rtt=17.92ms rd=3.1ms sd=14.83ms ipdv=80.22ms
+seq=8 rtt=98.43ms rd=1.85ms sd=96.59ms ipdv=80.51ms
+seq=9 rtt=20.97ms rd=7.17ms sd=13.8ms ipdv=77.46ms
+seq=10 rtt=103.2ms rd=1.25ms sd=102ms ipdv=82.26ms
+seq=11 rtt=18.4ms rd=3.59ms sd=14.81ms ipdv=84.82ms
+seq=12 rtt=122.7ms rd=9.77ms sd=112.9ms ipdv=104.2ms
+seq=13 rtt=23.12ms rd=228µs sd=22.9ms ipdv=99.53ms
+seq=14 rtt=114.6ms rd=3.36ms sd=111.2ms ipdv=91.44ms
+seq=15 rtt=17.36ms rd=3.13ms sd=14.23ms ipdv=97.2ms
+seq=16 rtt=122.6ms rd=6.48ms sd=116.1ms ipdv=105.2ms
+seq=17 rtt=22.46ms rd=2.4ms sd=20.06ms ipdv=100.1ms
+seq=18 rtt=130.2ms rd=1.79ms sd=128.4ms ipdv=107.7ms
+seq=19 rtt=29.88ms rd=698µs sd=29.18ms ipdv=100.3ms
+seq=20 rtt=128.2ms rd=2.26ms sd=125.9ms ipdv=98.33ms
+seq=21 rtt=30.83ms rd=4.01ms sd=26.82ms ipdv=97.37ms
+seq=22 rtt=34.12ms rd=899µs sd=33.22ms ipdv=3.29ms
+seq=23 rtt=31.65ms rd=1.04ms sd=30.61ms ipdv=2.47ms
+seq=24 rtt=34.2ms rd=1.12ms sd=33.08ms ipdv=2.55ms
+seq=25 rtt=41.48ms rd=-450µs sd=41.93ms ipdv=7.28ms
+seq=26 rtt=37.25ms rd=-699µs sd=37.95ms ipdv=4.23ms
+seq=27 rtt=41.97ms rd=999µs sd=40.97ms ipdv=4.71ms
+seq=28 rtt=48.81ms rd=2.48ms sd=46.33ms ipdv=6.84ms
+seq=29 rtt=44.56ms rd=-280µs sd=44.84ms ipdv=4.26ms
+seq=30 rtt=49.94ms rd=2.54ms sd=47.4ms ipdv=5.38ms
+seq=31 rtt=55.35ms rd=1.78ms sd=53.56ms ipdv=5.41ms
+seq=32 rtt=16.22ms rd=-1.01ms sd=17.23ms ipdv=39.13ms
+seq=33 rtt=56.41ms rd=1.81ms sd=54.6ms ipdv=40.19ms
+seq=34 rtt=17.59ms rd=3.76ms sd=13.83ms ipdv=38.82ms
+seq=35 rtt=58.95ms rd=-361µs sd=59.31ms ipdv=41.36ms
+seq=36 rtt=14.55ms rd=26.9µs sd=14.53ms ipdv=44.4ms
+seq=37 rtt=70.91ms rd=3.3ms sd=67.62ms ipdv=56.36ms
+seq=38 rtt=26.99ms rd=3.22ms sd=23.77ms ipdv=43.93ms
+seq=39 rtt=16.34ms rd=333µs sd=16ms ipdv=10.65ms
+seq=40 rtt=77.18ms rd=1.13ms sd=76.05ms ipdv=60.84ms
+seq=41 rtt=18.15ms rd=4.93ms sd=13.22ms ipdv=59.03ms
+seq=42 rtt=77.66ms rd=1.13ms sd=76.53ms ipdv=59.51ms
+seq=43 rtt=19.27ms rd=4.62ms sd=14.64ms ipdv=58.39ms
+seq=44 rtt=81.61ms rd=1.54ms sd=80.07ms ipdv=62.34ms
+seq=45 rtt=29.66ms rd=9.97ms sd=19.69ms ipdv=51.95ms
+seq=46 rtt=92.1ms rd=-950µs sd=93.05ms ipdv=62.45ms
+seq=47 rtt=26.66ms rd=5.57ms sd=21.09ms ipdv=65.44ms
+seq=48 rtt=92.26ms rd=432µs sd=91.83ms ipdv=65.6ms
+seq=49 rtt=17.89ms rd=4.72ms sd=13.17ms ipdv=74.37ms
+seq=50 rtt=97.54ms rd=1.48ms sd=96.06ms ipdv=79.65ms
+seq=51 rtt=22.57ms rd=6.61ms sd=15.97ms ipdv=74.96ms
+seq=52 rtt=106.7ms rd=1.25ms sd=105.4ms ipdv=84.1ms
+seq=53 rtt=23.52ms rd=5.52ms sd=18ms ipdv=83.15ms
+seq=54 rtt=154ms rd=959µs sd=153ms ipdv=130.4ms
+seq=55 rtt=54.64ms rd=779µs sd=53.86ms ipdv=99.33ms
+seq=56 rtt=54.03ms rd=1.23ms sd=52.8ms ipdv=606µs
+seq=57 rtt=117.6ms rd=5.02ms sd=112.6ms ipdv=63.58ms
+seq=58 rtt=28.29ms rd=11.88ms sd=16.41ms ipdv=89.33ms
+seq=59 rtt=123.5ms rd=6.81ms sd=116.7ms ipdv=95.25ms
+seq=60 rtt=27.23ms rd=4.27ms sd=22.96ms ipdv=96.3ms
+seq=61 rtt=127.9ms rd=1.92ms sd=126ms ipdv=100.7ms
+seq=62 rtt=32.66ms rd=1.13ms sd=31.53ms ipdv=95.25ms
+seq=63 rtt=130.8ms rd=2.22ms sd=128.6ms ipdv=98.13ms
+seq=64 rtt=31.72ms rd=1.26ms sd=30.46ms ipdv=99.07ms
+seq=65 rtt=36.39ms rd=1.52ms sd=34.87ms ipdv=4.67ms
+seq=66 rtt=33.42ms rd=1.89ms sd=31.52ms ipdv=2.97ms
+seq=67 rtt=32.31ms rd=-1.51ms sd=33.81ms ipdv=1.11ms
+seq=68 rtt=41.82ms rd=1.99ms sd=39.83ms ipdv=9.52ms
+seq=69 rtt=40.35ms rd=1.69ms sd=38.67ms ipdv=1.47ms
+seq=70 rtt=42.75ms rd=1.15ms sd=41.61ms ipdv=2.4ms
+seq=71 rtt=50.38ms rd=930µs sd=49.45ms ipdv=7.62ms
+seq=72 rtt=47.46ms rd=618µs sd=46.84ms ipdv=2.91ms
+seq=73 rtt=54.71ms rd=5.14ms sd=49.57ms ipdv=7.24ms
+seq=74 rtt=61.01ms rd=646µs sd=60.37ms ipdv=6.31ms
+seq=75 rtt=24.43ms rd=4.56ms sd=19.87ms ipdv=36.58ms
+seq=76 rtt=55.77ms rd=267µs sd=55.51ms ipdv=31.34ms
+seq=77 rtt=18.2ms rd=2.27ms sd=15.93ms ipdv=37.58ms
+seq=78 rtt=61.65ms rd=749µs sd=60.91ms ipdv=43.46ms
+seq=79 rtt=13.73ms rd=-580µs sd=14.31ms ipdv=47.93ms
+seq=80 rtt=75.24ms rd=4.48ms sd=70.76ms ipdv=61.51ms
+seq=81 rtt=12.2ms rd=-1.56ms sd=13.76ms ipdv=63.04ms
+seq=82 rtt=71.9ms rd=-65.4µs sd=71.97ms ipdv=59.7ms
+seq=83 rtt=11.71ms rd=-1.46ms sd=13.17ms ipdv=60.19ms
+seq=84 rtt=82.5ms rd=4.52ms sd=77.98ms ipdv=70.79ms
+seq=85 rtt=16.21ms rd=-24.9µs sd=16.24ms ipdv=66.28ms
+seq=86 rtt=64.72ms rd=-690µs sd=65.41ms ipdv=48.5ms
+seq=87 rtt=35.74ms rd=2.16ms sd=33.59ms ipdv=28.97ms
+seq=88 rtt=68.29ms rd=5.73ms sd=62.56ms ipdv=32.54ms
+seq=89 rtt=25.92ms rd=3.39ms sd=22.54ms ipdv=42.36ms
+seq=90 rtt=93.97ms rd=5.41ms sd=88.56ms ipdv=68.05ms
+seq=91 rtt=25.06ms rd=3.82ms sd=21.23ms ipdv=68.91ms
+seq=92 rtt=102.1ms rd=5.2ms sd=96.85ms ipdv=77ms
+seq=93 rtt=22.19ms rd=8.21ms sd=13.98ms ipdv=79.86ms
+seq=94 rtt=98.67ms rd=319µs sd=98.35ms ipdv=76.47ms
+seq=95 rtt=22.94ms rd=6.62ms sd=16.32ms ipdv=75.73ms
+seq=96 rtt=102.4ms rd=-1.02ms sd=103.5ms ipdv=79.51ms
+seq=97 rtt=11.77ms rd=-2.4ms sd=14.17ms ipdv=90.67ms
+seq=98 rtt=117.6ms rd=2.31ms sd=115.3ms ipdv=105.8ms
+seq=99 rtt=16.99ms rd=-463µs sd=17.46ms ipdv=100.6ms
+seq=100 rtt=225ms rd=5.89ms sd=219.1ms ipdv=208ms
+seq=101 rtt=126.9ms rd=1.95ms sd=125ms ipdv=98.09ms
+seq=102 rtt=27.12ms rd=230µs sd=26.89ms ipdv=99.78ms
+seq=105 rtt=123ms rd=-1.49ms sd=124.5ms ipdv=n/a
+seq=106 rtt=26.31ms rd=1.51ms sd=24.81ms ipdv=96.71ms
+seq=107 rtt=135ms rd=1.01ms sd=134ms ipdv=108.7ms
+seq=108 rtt=35.96ms rd=-547µs sd=36.51ms ipdv=99.06ms
+seq=109 rtt=34.62ms rd=2.6ms sd=32.02ms ipdv=1.35ms
+seq=110 rtt=35.11ms rd=541µs sd=34.56ms ipdv=490µs
+seq=111 rtt=42.87ms rd=1.59ms sd=41.28ms ipdv=7.76ms
+seq=112 rtt=45.22ms rd=5.38ms sd=39.84ms ipdv=2.36ms
+seq=113 rtt=38.37ms rd=-2.91ms sd=41.28ms ipdv=6.85ms
+seq=114 rtt=49.52ms rd=-1.62ms sd=51.14ms ipdv=11.15ms
+seq=115 rtt=11.33ms rd=-1.92ms sd=13.25ms ipdv=38.2ms
+seq=116 rtt=51.1ms rd=2.73ms sd=48.37ms ipdv=39.78ms
+seq=117 rtt=58.24ms rd=2.32ms sd=55.91ms ipdv=7.14ms
+seq=118 rtt=13.51ms rd=1.17ms sd=12.34ms ipdv=44.73ms
+seq=119 rtt=57.73ms rd=869µs sd=56.86ms ipdv=44.22ms
+seq=120 rtt=65.03ms rd=3.27ms sd=61.77ms ipdv=7.3ms
+seq=121 rtt=10.48ms rd=-1.94ms sd=12.42ms ipdv=54.56ms
+seq=122 rtt=65.83ms rd=1.68ms sd=64.15ms ipdv=55.36ms
+seq=123 rtt=15.13ms rd=-2.08ms sd=17.21ms ipdv=50.7ms
+seq=124 rtt=64.03ms rd=-2.43ms sd=66.47ms ipdv=48.91ms
+seq=125 rtt=18.29ms rd=-2.27ms sd=20.56ms ipdv=45.75ms
+seq=126 rtt=79.13ms rd=1.81ms sd=77.32ms ipdv=60.84ms
+seq=127 rtt=10.95ms rd=-1.06ms sd=12ms ipdv=68.18ms
+seq=128 rtt=74.16ms rd=-2.94ms sd=77.1ms ipdv=63.21ms
+seq=129 rtt=19.71ms rd=1.86ms sd=17.85ms ipdv=54.45ms
+seq=130 rtt=88.49ms rd=5.67ms sd=82.82ms ipdv=68.78ms
+seq=131 rtt=18.78ms rd=126µs sd=18.66ms ipdv=69.71ms
+seq=132 rtt=90.47ms rd=-964µs sd=91.44ms ipdv=71.69ms
+seq=133 rtt=17.15ms rd=-2.68ms sd=19.84ms ipdv=73.32ms
+seq=134 rtt=93.86ms rd=1.62ms sd=92.24ms ipdv=76.7ms
+seq=135 rtt=18.86ms rd=5.31ms sd=13.55ms ipdv=75ms
+seq=136 rtt=98.38ms rd=866µs sd=97.52ms ipdv=79.52ms
+seq=137 rtt=23.45ms rd=9.33ms sd=14.12ms ipdv=74.94ms
+seq=138 rtt=106.5ms rd=1.63ms sd=104.8ms ipdv=83.04ms
+seq=139 rtt=12.5ms rd=-1.51ms sd=14.01ms ipdv=93.99ms
+seq=140 rtt=102.7ms rd=-2.68ms sd=105.4ms ipdv=90.2ms
+seq=141 rtt=15.93ms rd=425µs sd=15.51ms ipdv=86.76ms
+seq=142 rtt=112.9ms rd=717µs sd=112.2ms ipdv=96.96ms
+seq=143 rtt=16.5ms rd=-616µs sd=17.12ms ipdv=96.39ms
+seq=144 rtt=122.1ms rd=1.45ms sd=120.6ms ipdv=105.6ms
+seq=145 rtt=23.05ms rd=-2.41ms sd=25.46ms ipdv=99.04ms
+seq=146 rtt=121.5ms rd=299µs sd=121.2ms ipdv=98.47ms
+seq=147 rtt=23.75ms rd=1.18ms sd=22.57ms ipdv=97.77ms
+[192.168.0.43:2112] [WaitForPackets] waiting 675ms for final packets
+seq=148 rtt=127.6ms rd=1.18ms sd=126.4ms ipdv=103.9ms
+seq=149 rtt=26.86ms rd=4.44µs sd=26.86ms ipdv=100.8ms
+
+                         Min     Mean   Median      Max   Stddev
+                         ---     ----   ------      ---   ------
+                RTT  10.48ms   55.7ms  42.36ms    225ms  40.05ms
+         send delay     12ms  53.85ms  41.28ms  219.1ms   39.9ms
+      receive delay  -2.94ms   1.85ms   1.26ms  11.88ms    2.8ms
+                                                                
+      IPDV (jitter)    490µs  59.97ms  64.51ms    208ms  36.55ms
+          send IPDV   1.05ms  60.13ms  64.89ms  201.6ms  36.62ms
+       receive IPDV    105ns   2.93ms   2.78ms  10.92ms   2.24ms
+                                                                
+     send call time   32.1µs    102µs             236µs   41.5µs
+        timer error    351ns    294µs             803µs    202µs
+  server proc. time   8.29µs   18.3µs              67µs   5.73µs
+
+                duration: 15.6s (wait 675ms)
+   packets sent/received: 150/148 (1.33% loss)
+ server packets received: 150/150 (0.00%/1.33% loss up/down)
+     bytes sent/received: 9000/8880
+       send/receive rate: 4.8 Kbps / 4.8 Kbps
+           packet length: 60 bytes
+             timer stats: 0/150 (0.00%) missed, 0.29% error

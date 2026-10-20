@@ -1,0 +1,15 @@
+PING 192.168.0.43 (192.168.0.43) 1024(1052) bytes of data.
+1032 bytes from 192.168.0.43: icmp_seq=1 ttl=63 time=21.0 ms
+1032 bytes from 192.168.0.43: icmp_seq=2 ttl=63 time=122 ms
+1032 bytes from 192.168.0.43: icmp_seq=3 ttl=63 time=43.5 ms
+1032 bytes from 192.168.0.43: icmp_seq=4 ttl=63 time=73.3 ms
+1032 bytes from 192.168.0.43: icmp_seq=5 ttl=63 time=89.0 ms
+1032 bytes from 192.168.0.43: icmp_seq=6 ttl=63 time=112 ms
+1032 bytes from 192.168.0.43: icmp_seq=7 ttl=63 time=37.2 ms
+1032 bytes from 192.168.0.43: icmp_seq=8 ttl=63 time=59.0 ms
+1032 bytes from 192.168.0.43: icmp_seq=9 ttl=63 time=82.6 ms
+1032 bytes from 192.168.0.43: icmp_seq=10 ttl=63 time=104 ms
+
+--- 192.168.0.43 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 20.972/74.369/121.899/32.047 ms
